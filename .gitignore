@@ -1,0 +1,15 @@
+# Python / Django
+__pycache__/
+*.py[cod]
+*.sqlite3
+db.sqlite3
+*.log
+.env
+venv/
+.venv/
+env/
+staticfiles/
+*.egg-info/
+
+# Render / deploy
+.DS_Store
